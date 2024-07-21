@@ -1,0 +1,3 @@
+[submodule "fiap-postech-hackathon-app"]
+	path = fiap-postech-hackathon-app
+	url = git@github.com:mariosmello/fiap-postech-hackathon-app
